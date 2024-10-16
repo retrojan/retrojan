@@ -3,6 +3,10 @@
 
 Я увлекаюсь веб-разработкой и созданием игр. Вот немного информации обо мне:
 
+- **Общее количество коммитов:** ![Total Commits](https://img.shields.io/badge/Commits-?style=flat-square&logo=git&color=purple) 
+- **Скорость ответов:** ![Response Time](https://img.shields.io/badge/Response%20Time-?style=flat-square&color=orange)
+- **Число подписчиков:** ![Followers](https://img.shields.io/badge/Followers-?style=flat-square&color=blue)
+- 
 ## 🚀 Свяжитесь со мной:
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/957920507754324028)
 
