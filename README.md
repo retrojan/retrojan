@@ -1,5 +1,5 @@
 # Привет! 👋
-
+![Profile views](https://komarev.com/ghpvc/?username=ReTrojan&color=brightgreen)
 Я — ReTrojan, разработчик с интересом к созданию веб-приложений. На этой странице вы найдёте обо мне информацию.
 
 ## 🛠️ Мои навыки:
@@ -21,5 +21,4 @@
 ## 🚀 Количество выполненных коммитов по дням недели:
 ![GitHub Commits Per Day](https://github-readme-streak-stats.herokuapp.com/?user=ReTrojan&theme=dark)
 
-## 🖼️ Количество просмотров профиля:
-![Profile views](https://komarev.com/ghpvc/?username=ReTrojan&color=brightgreen)
+
