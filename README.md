@@ -1,5 +1,7 @@
 # Привет, я ReTrojan! 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=ReTrojan&color=brightgreen)
+
 Я увлекаюсь веб-разработкой и созданием игр. Вот немного информации обо мне:
 
 ## 🛠️ Мои навыки:
@@ -17,6 +19,12 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+<!-- ## 🚀 Свяжитесь со мной:
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш_профиль)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ваш_ник)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ваша_почта@gmail.com) -->
+
 ## 🏆 Мои достижения и статистика:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ReTrojan&theme=darkhub&no-bg=true&no-frame=true)
 
@@ -26,11 +34,6 @@
 ## 📊 Активность:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ReTrojan&theme=github-dark&hide_border=true)
 
-## 🖼️ Количество просмотров профиля:
-![Profile views](https://komarev.com/ghpvc/?username=ReTrojan&color=brightgreen)
 
-## 🚀 Свяжитесь со мной:
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш_профиль)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ваш_ник)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ваша_почта@gmail.com)
+
+
