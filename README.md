@@ -3,10 +3,6 @@
 
 Я увлекаюсь веб-разработкой и созданием игр. Вот немного информации обо мне:
 
-- **Общее количество коммитов:** ![Total Commits](https://img.shields.io/badge/Commits-?style=flat-square&logo=git&color=purple) 
-- **Скорость ответов:** ![Response Time](https://img.shields.io/badge/Response%20Time-?style=flat-square&color=orange)
-- **Число подписчиков:** ![Followers](https://img.shields.io/badge/Followers-?style=flat-square&color=blue)
-- 
 ## 🚀 Свяжитесь со мной:
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/957920507754324028)
 
@@ -27,28 +23,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 🖥️ Характеристики моего ПК:
-
-- **Процессор:** Intel Core i5-12400F
-  - Тактовая частота: 2.5 ГГц (может увеличиваться до 4.4 ГГц в режиме Turbo Boost)
-  - Ядер: 6 (12 потоков)
-
-- **Видеокарта:** NVIDIA GeForce RTX 3070 Ti
-  - Объём видеопамяти: 8 ГБ GDDR6
-  - Поддержка трассировки лучей и DLSS
-
-- **Оперативная память:** 16 ГБ KINGSTON FURY BEAST DDR4 3200 МГц
-  - Двуканальная конфигурация (8 ГБ x 2)
-
-- **Накопитель:** 1 ТБ SSD NVMe
-  - Скорость чтения: до 3500 МБ/с
-  - Скорость записи: до 3000 МБ/с
-
-- **Материнская плата:** ASROCK B660M Pro RS
-  - Поддержка PCIe 4.0
-  - 4 слота для оперативной памяти
-
-- **Операционная система:** Windows 11
 
 
 
