@@ -27,6 +27,32 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+## 🖥️ Характеристики моего ПК:
+
+- **Процессор:** Intel Core i5-12400F
+  - Тактовая частота: 2.5 ГГц (может увеличиваться до 4.4 ГГц в режиме Turbo Boost)
+  - Ядер: 6 (12 потоков)
+
+- **Видеокарта:** NVIDIA GeForce RTX 3070 Ti
+  - Объём видеопамяти: 8 ГБ GDDR6
+  - Поддержка трассировки лучей и DLSS
+
+- **Оперативная память:** 16 ГБ KINGSTON FURY BEAST DDR4 3200 МГц
+  - Двуканальная конфигурация (8 ГБ x 2)
+
+- **Накопитель:** 1 ТБ SSD NVMe
+  - Скорость чтения: до 3500 МБ/с
+  - Скорость записи: до 3000 МБ/с
+
+- **Материнская плата:** ASROCK B660M Pro RS
+  - Поддержка PCIe 4.0
+  - 4 слота для оперативной памяти
+
+- **Операционная система:** Windows 11
+
+
+
+
 <!-- ## 🚀 Свяжитесь со мной:
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш_профиль)
