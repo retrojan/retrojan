@@ -9,9 +9,8 @@
 - 🛠️ Open-Source контрибьютор
 
 ## 🔥 Статистика GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=retrojan&show_icons=true&theme=radical)
+![ReTrojan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReTrojan&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retrojan&layout=compact
-)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReTrojan&layout=compact&theme=dark)
 
 
