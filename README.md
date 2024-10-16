@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**retrojan/retrojan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — x165, разработчик с интересом к созданию игр и веб-приложений. На этой странице вы найдёте мои проекты.
 
-Here are some ideas to get you started:
+## 🛠️ Мои навыки:
+- 💻 JavaScript, HTML, CSS
+- ⚛️ React, Vue.js
+- 🎮 Разработка игр на Unity
+- 🛠️ Open-Source контрибьютор
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Статистика GitHub:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=retrojan&show_icons=true&theme=radical)
+
+## 📊 Мои наиболее используемые языки:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retrojan&layout=compact)
+
+
