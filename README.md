@@ -3,8 +3,8 @@
 
 Я увлекаюсь веб-разработкой и созданием игр. Вот немного информации обо мне:
 
-## 🚀 Свяжитесь со мной:
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/957920507754324028)
+<!--## 🚀 Свяжитесь со мной:
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/957920507754324028)-->
 
 
 ## 🛠️ Мои навыки:
