@@ -21,7 +21,7 @@
  📚 Технологии:
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) -->
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
 
@@ -34,9 +34,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ваша_почта@gmail.com) -->
 
 ## 🏆 Мои достижения и статистика:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ReTrojan&theme=darkhub&no-bg=true&no-frame=true)
-
-![ReTrojan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReTrojan&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReTrojan&layout=compact&theme=dark)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ReTrojan&theme=github-dark&hide_border=true)
