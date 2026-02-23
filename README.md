@@ -6,9 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/ReTrojan">
-    <img src="https://img.shields.io/badge/ReTrojan-181717?style=flat-square&logo=github"/>
+    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github"/>
   </a>
-  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-Fish-2FASF?style=flat-square&logo=fish-shell&logoColor=white"/>
   <img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white"/>
 </div>
