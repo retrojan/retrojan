@@ -10,7 +10,6 @@
   </a>
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-Fish-2FASF?style=flat-square&logo=fish-shell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Editor-Vim-019733?style=flat-square&logo=vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white"/>
 </div>
 
@@ -20,6 +19,5 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fish-34C534?style=for-the-badge&logo=fish-shell&logoColor=white"/>
 </div>
