@@ -4,9 +4,9 @@
 </div>
 <div align="center">
   <a href="https://github.com/ReTrojan">
-    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github"/>
   </a>
-<img src="https://img.shields.io/badge/zsh-000000?style=flat-square&logo=gnu-bash&logoColor=white&color=000000"/>
+    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github"/>
+&thinsp;<img src="https://img.shields.io/badge/zsh-000000?style=flat-square&logo=gnu-bash&logoColor=white&color=000000"/>
 <img src="https://img.shields.io/badge/Hyprland-000000?style=flat-square&logo=hyprland&logoColor=white"/>
 </div>
 <div align="center">
