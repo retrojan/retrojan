@@ -1,0 +1,1022 @@
+{
+  "version": 1,
+  "always_on": true,
+  "dns_log_until": null,
+  "excluded_ips": [
+    [
+      "10.0.0.0/8",
+      null
+    ],
+    [
+      "100.64.0.0/10",
+      null
+    ],
+    [
+      "169.254.0.0/16",
+      null
+    ],
+    [
+      "172.16.0.0/12",
+      null
+    ],
+    [
+      "192.0.0.0/24",
+      null
+    ],
+    [
+      "192.168.0.0/16",
+      null
+    ],
+    [
+      "224.0.0.0/24",
+      null
+    ],
+    [
+      "240.0.0.0/4",
+      null
+    ],
+    [
+      "239.255.255.250/32",
+      null
+    ],
+    [
+      "255.255.255.255/32",
+      null
+    ],
+    [
+      "fe80::/10",
+      null
+    ],
+    [
+      "fd00::/8",
+      null
+    ],
+    [
+      "ff01::/16",
+      null
+    ],
+    [
+      "ff02::/16",
+      null
+    ],
+    [
+      "ff03::/16",
+      null
+    ],
+    [
+      "ff04::/16",
+      null
+    ],
+    [
+      "ff05::/16",
+      null
+    ],
+    [
+      "fc00::/7",
+      null
+    ],
+    [
+      "17.249.0.0/16",
+      null
+    ],
+    [
+      "17.252.0.0/16",
+      null
+    ],
+    [
+      "17.57.144.0/22",
+      null
+    ],
+    [
+      "17.188.128.0/18",
+      null
+    ],
+    [
+      "17.188.20.0/23",
+      null
+    ],
+    [
+      "2620:149:a44::/48",
+      null
+    ],
+    [
+      "2403:300:a42::/48",
+      null
+    ],
+    [
+      "2403:300:a51::/48",
+      null
+    ],
+    [
+      "2a01:b740:a42::/48",
+      null
+    ],
+    [
+      "103.140.28.0/23",
+      "CLI exclude"
+    ],
+    [
+      "128.116.0.0/17",
+      "CLI exclude"
+    ],
+    [
+      "128.116.0.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.1.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.5.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.11.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.13.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.21.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.22.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.31.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.32.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.33.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.35.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.44.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.45.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.46.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.48.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.50.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.51.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.53.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.54.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.55.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.56.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.57.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.63.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.64.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.67.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.74.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.80.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.81.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.84.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.86.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.87.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.88.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.95.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.97.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.99.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.102.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.104.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.105.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.115.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.116.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.117.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.119.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.120.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.123.0/24",
+      "CLI exclude"
+    ],
+    [
+      "128.116.127.0/24",
+      "CLI exclude"
+    ],
+    [
+      "141.193.3.0/24",
+      "CLI exclude"
+    ],
+    [
+      "205.201.62.0/24",
+      "CLI exclude"
+    ],
+    [
+      "109.207.1.100/32",
+      "CLI exclude"
+    ],
+    [
+      "109.207.1.98/32",
+      "CLI exclude"
+    ],
+    [
+      "109.207.1.123/32",
+      "CLI exclude"
+    ],
+    [
+      "109.207.1.10/32",
+      "CLI exclude"
+    ],
+    [
+      "213.59.253.4/32",
+      "CLI exclude"
+    ],
+    [
+      "213.59.255.175/32",
+      "CLI exclude"
+    ],
+    [
+      "213.59.253.7/32",
+      "CLI exclude"
+    ],
+    [
+      "213.59.254.7/32",
+      "CLI exclude"
+    ],
+    [
+      "109.207.2.149/32",
+      "CLI exclude"
+    ],
+    [
+      "213.59.253.1/32",
+      "CLI exclude"
+    ],
+    [
+      "213.59.253.48/32",
+      "CLI exclude"
+    ],
+    [
+      "109.207.1.0/24",
+      "CLI exclude"
+    ],
+    [
+      "109.207.2.0/24",
+      "CLI exclude"
+    ],
+    [
+      "213.59.253.0/24",
+      "CLI exclude"
+    ],
+    [
+      "213.59.254.0/24",
+      "CLI exclude"
+    ],
+    [
+      "213.59.255.0/24",
+      "CLI exclude"
+    ],
+    [
+      "45.121.184.0/22",
+      "CLI exclude"
+    ],
+    [
+      "103.10.124.0/23",
+      "CLI exclude"
+    ],
+    [
+      "103.28.54.0/23",
+      "CLI exclude"
+    ],
+    [
+      "146.66.152.0/21",
+      "CLI exclude"
+    ],
+    [
+      "155.133.224.0/19",
+      "CLI exclude"
+    ],
+    [
+      "208.64.203.0/24",
+      "CLI exclude"
+    ],
+    [
+      "162.254.192.0/21",
+      "CLI exclude"
+    ],
+    [
+      "185.25.180.0/22",
+      "CLI exclude"
+    ],
+    [
+      "192.69.96.0/24",
+      "CLI exclude"
+    ],
+    [
+      "205.185.194.0/23",
+      "CLI exclude"
+    ],
+    [
+      "208.64.200.0/22",
+      "CLI exclude"
+    ],
+    [
+      "208.78.164.0/22",
+      "CLI exclude"
+    ],
+    [
+      "2a01:bc80:1::/48",
+      "CLI exclude"
+    ],
+    [
+      "2a01:bc80:2::/48",
+      "CLI exclude"
+    ],
+    [
+      "2a01:bc80:3::/48",
+      "CLI exclude"
+    ]
+  ],
+  "excluded_hosts": [
+    [
+      "roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "www.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "auth.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "accountsettings.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "assetgame.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "assetdelivery.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "catalog.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "avatar.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "itemconfiguration.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "economy.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "apis.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "clientsettings.api.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "chat.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "voice.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "friends.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "groups.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "notifications.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "presence.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "realtime.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "chatmoderation.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "studio.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "publish.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "develop.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "devforum.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "setup.rbxcdn.com",
+      "CLI exclude"
+    ],
+    [
+      "rbxcdn.com",
+      "CLI exclude"
+    ],
+    [
+      "versioncompatibility.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "sitetest.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "trades.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "translations.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "tutorials.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "ecs.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "gameanalytics.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "metrics.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "telemetry.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "abtesting.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "adconfiguration.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "ads.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "adserver.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "adspolicy.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "api.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "billing.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "captcha.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "cdn.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "chatrealtime.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "client-telemetry.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "clientsettingscdn.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "clicks.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "contentstore.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "ephemeralcounters.api.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "followings.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "gamepersistence.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "games.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "graphql.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "groupsmoderation.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "inventory.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "locale.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "localizationtables.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "matchmaking.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "pointbalancing.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "premiumfeatures.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "privatemessages.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "ratings.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "search.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "thumbnails.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "tix.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "translationservice.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "users.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "usersmoderation.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "web.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "wiki.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "wire.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "clientconfig.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "config.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "crl.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "status.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "setup.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "update.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "s3.amazonaws.com",
+      "CLI exclude"
+    ],
+    [
+      "stun.l.google.com",
+      "CLI exclude"
+    ],
+    [
+      "stun1.l.google.com",
+      "CLI exclude"
+    ],
+    [
+      "stun2.l.google.com",
+      "CLI exclude"
+    ],
+    [
+      "stun3.l.google.com",
+      "CLI exclude"
+    ],
+    [
+      "stun4.l.google.com",
+      "CLI exclude"
+    ],
+    [
+      "stun.services.mozilla.com",
+      "CLI exclude"
+    ],
+    [
+      "global.stun.twilio.com",
+      "CLI exclude"
+    ],
+    [
+      "turn.twilio.com",
+      "CLI exclude"
+    ],
+    [
+      "geoip.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "geoip.services.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "ocsp.digicert.com",
+      "CLI exclude"
+    ],
+    [
+      "ocsp.verisign.com",
+      "CLI exclude"
+    ],
+    [
+      "crl.verisign.com",
+      "CLI exclude"
+    ],
+    [
+      "setup-cdn.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "roblox-setup.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "roblox-update.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "update-cdn.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "api.rbxcdn.com",
+      "CLI exclude"
+    ],
+    [
+      "setup.api.rbxcdn.com",
+      "CLI exclude"
+    ],
+    [
+      "setup.cache.rbxcdn.com",
+      "CLI exclude"
+    ],
+    [
+      "cs.rbxcdn.com",
+      "CLI exclude"
+    ],
+    [
+      "roblox-setup.cache.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "roblox-update.cache.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "setup.cache.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "update.cache.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "gamejoin.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "client.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "contentdelivery.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "economycdn.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "matchmaking.api.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "presence.api.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "friends.api.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "groups.api.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "inventory.api.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "catalog.api.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "avatar.api.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "users.api.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "develop.api.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "devforum.api.roblox.com",
+      "CLI exclude"
+    ],
+    [
+      "akamaized.net",
+      "CLI exclude"
+    ],
+    [
+      "cloudfront.net",
+      "CLI exclude"
+    ],
+    [
+      "amazonaws.com",
+      "CLI exclude"
+    ],
+    [
+      "rblx.com",
+      "CLI exclude"
+    ],
+    [
+      "robloxapp.com",
+      "CLI exclude"
+    ],
+    [
+      "robloxgames.com",
+      "CLI exclude"
+    ],
+    [
+      "robloxlabs.com",
+      "CLI exclude"
+    ],
+    [
+      "gosuslugi.ru",
+      "CLI exclude"
+    ],
+    [
+      "yandex.ru",
+      "CLI exclude"
+    ],
+    [
+      "mail.ru",
+      "CLI exclude"
+    ],
+    [
+      "mx.gosuslugi.ru",
+      "CLI exclude"
+    ],
+    [
+      "news.gosuslugi.ru",
+      "CLI exclude"
+    ],
+    [
+      "info.gosuslugi.ru",
+      "CLI exclude"
+    ],
+    [
+      "ns1.gosuslugi.ru",
+      "CLI exclude"
+    ],
+    [
+      "ns2.gosuslugi.ru",
+      "CLI exclude"
+    ],
+    [
+      "download.gosuslugi.ru",
+      "CLI exclude"
+    ],
+    [
+      "www.gosuslugi.ru",
+      "CLI exclude"
+    ],
+    [
+      "www2.gosuslugi.ru",
+      "CLI exclude"
+    ],
+    [
+      "smtp.gosuslugi.ru",
+      "CLI exclude"
+    ],
+    [
+      "demo.gosuslugi.ru",
+      "CLI exclude"
+    ],
+    [
+      "steampowered.com",
+      "CLI exclude"
+    ],
+    [
+      "ea.com",
+      "CLI exclude"
+    ],
+    [
+      "battlelog.battlefield.com",
+      "CLI exclude"
+    ],
+    [
+      "steamcommunity.com",
+      "CLI exclude"
+    ],
+    [
+      "steamgames.com",
+      "CLI exclude"
+    ],
+    [
+      "steamcontent.com",
+      "CLI exclude"
+    ],
+    [
+      "steamstatic.com",
+      "CLI exclude"
+    ],
+    [
+      "valvesoftware.com",
+      "CLI exclude"
+    ]
+  ],
+  "qlog_log_until": null
+}
