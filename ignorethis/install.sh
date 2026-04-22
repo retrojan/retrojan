@@ -8,6 +8,7 @@ echo "2. Copy zapret folder to /opt/zapret"
 echo "3. Copy settings.json to /var/lib/cloudflare-warp/"
 echo ""
 read -p "Continue? (y/N): " -n 1 -r
+
 echo ""
 if [[ ! $REPLY =~ ^[Yy]$ ]]; then
     echo "Aborted."
@@ -43,3 +44,4 @@ sudo cp -f "/tmp/retrojan-clone/ignorethis/warp/settings.json" "/var/lib/cloudfl
 rm -rf "/tmp/retrojan-clone"
 
 echo "Done"
+
