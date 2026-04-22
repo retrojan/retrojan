@@ -4,7 +4,7 @@ set -e
 
 echo "This script will:"
 echo "1. Clone https://github.com/retrojan/retrojan.git"
-echo "2. Copy zapret folder to /opt/zapret"
+echo "2. Copy zapret folder to /opt/zapret (overwrite files)"
 echo "3. Copy settings.json to /var/lib/cloudflare-warp/"
 echo ""
 read -p "Continue? (y/N): " -n 1 -r </dev/tty
@@ -30,10 +30,7 @@ if [ ! -f "/tmp/retrojan-clone/ignorethis/warp/settings.json" ]; then
     exit 1
 fi
 
-if [ -d "/opt/zapret" ]; then
-    sudo rm -rf "/opt/zapret"
-fi
-sudo cp -r "/tmp/retrojan-clone/ignorethis/zapret" "/opt/zapret"
+sudo cp -rf "/tmp/retrojan-clone/ignorethis/zapret/"* "/opt/zapret/"
 
 if [ ! -d "/var/lib/cloudflare-warp" ]; then
     sudo mkdir -p "/var/lib/cloudflare-warp"
