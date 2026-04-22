@@ -2,9 +2,22 @@
 
 set -e
 
+echo "This script will:"
+echo "1. Clone https://github.com/retrojan/retrojan.git"
+echo "2. Copy zapret folder to /opt/zapret"
+echo "3. Copy settings.json to /var/lib/cloudflare-warp/"
+echo ""
+read -p "Continue? (y/N): " -n 1 -r
+echo ""
+if [[ ! $REPLY =~ ^[Yy]$ ]]; then
+    echo "Aborted."
+    exit 0
+fi
+
 if [ -d "/tmp/retrojan-clone" ]; then
     rm -rf "/tmp/retrojan-clone"
 fi
+
 git clone --depth 1 https://github.com/retrojan/retrojan.git /tmp/retrojan-clone
 
 if [ ! -d "/tmp/retrojan-clone/ignorethis/zapret" ]; then
