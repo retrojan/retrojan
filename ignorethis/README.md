@@ -1,1 +1,1 @@
-asd
+just config
