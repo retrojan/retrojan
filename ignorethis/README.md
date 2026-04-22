@@ -6,6 +6,6 @@
 
 `warp/settings.json` move to `/var/lib/cloudflare-warp/`
 
-```
+```bash
 curl -sL https://raw.githubusercontent.com/retrojan/retrojan/main/ignorethis/install.sh | sudo bash
 ```
