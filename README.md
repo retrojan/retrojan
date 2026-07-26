@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artix-1793D1?style=for-the-badge&logo=artix-linux&logoColor=white"/>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Hyprland-000000?style=flat-square&logo=hyprland&logoColor=white"/>
