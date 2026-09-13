@@ -18,8 +18,9 @@
                                                ......                                                    
 ```
 <!-- 
-[retrojan/rtjn-kernel2](https://github.com/retrojan/rtjn-kernel2)
+
 -->
+- **[retrojan/rtjn-kernel2](https://github.com/retrojan/rtjn-kernel2)**       
 [retrojan/rtjn-kernel](https://github.com/retrojan/rtjn-kernel)       
 [retrojan/dots4hyprland](https://github.com/retrojan/dots4hypr)
 
